@@ -1,0 +1,35 @@
+_repo: Told-in-gallant-deeds-b-A-child-s-history-of-the-war_74913
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lowndes, Marie Belloc
+    aliases:
+    - Lowndes, Marie Adelaide Belloc
+    - Belloc-Lowndes, Marie Adelaide
+    - Belloc, Marie Adelaide
+    - Belloc, M. A. (Marie Adelaide)
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '786'
+    url: http://www.gutenberg.org/2009/agents/786
+    wikipedia: https://en.wikipedia.org/wiki/Marie_Belloc_Lowndes
+description: ''
+gutenberg_issued: '2024-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74913'
+language: en
+pgterms:marc904: https://catalog.hathitrust.org/Record/009042629
+pgterms:marc905: 20230501144109lowndes
+pgterms:marc906: '1915'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bJames Nisbet & Co., Ltd., $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Told in gallant deeds : $b A child''s history of the war'
+url: http://www.gutenberg.org/ebooks/74913
